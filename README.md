@@ -8,4 +8,5 @@ As regras de negócio estão todas no Banco de Dados, sendo que o mesmo pode ser
 
 Diagrama: https://drive.google.com/file/d/1LktdI-S921PQW-f4JKg1PEVcKU8yTLfC/view?usp=sharing
 
-![Diagrama_Carloca](https://user-images.githubusercontent.com/116609321/220416799-576b2fee-b7b1-4d33-9a5a-48791a4211e6.png)
+![Diagrama_Carloca](https://user-images.githubusercontent.com/116609321/221067859-01f9df73-0a53-429b-bb1d-2a14a0e34222.png)
+
